@@ -26,7 +26,7 @@ This step will install all the dependencies required for running CLPred. You do 
   `CUDA_VISIBLE_DEVICES=? python Train.py`
   
 # Run CLPred on New Test file
-  `CUDA_VISIBLE_DEVICES=? python Test.py'
+  `CUDA_VISIBLE_DEVICES=? python Test.py`
 
 You can change the input file in the code.
 If you have any questions, please contact xuanwj@csu.edu.cn
