@@ -13,9 +13,6 @@ We propose a deep learning model, so-called CLPred, which uses a bidirectional r
 
 ### Requirements
 
-This step will install all the dependencies required for running CLPred. You do not need sudo permissions for this step.
-
-  - Install Anaconda
     1. Download Anaconda (64 bit) installer python3.x for linux : https://www.anaconda.com/distribution/#download-section
     2. Run the installer : `bash Anaconda3-2019.03-Linux-x86_64.sh` and follow the instructions to install.
     3. Install tensorflow-gpu: conda install tensorflow-gpu 
