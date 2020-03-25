@@ -18,6 +18,8 @@ We propose a deep learning model, so-called CLPred, which uses a bidirectional r
 3. Install tensorflow-gpu: `conda install tensorflow-gpu`
 4. Install imblearn: `conda install -c glemaitre imbalanced-learn`
 5. Install sklearn: `conda install -c conda-forge scikit-learn`
+
+You can download the model file here:http://bioinformatics.csu.edu.cn/resources/softs/xuanwenjing/
     
 # Run CLPred in Train Mode
   `CUDA_VISIBLE_DEVICES=? python Train.py`
